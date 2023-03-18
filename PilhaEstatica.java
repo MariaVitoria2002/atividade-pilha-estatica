@@ -26,7 +26,7 @@ public class PilhaEstatica {
     }
 
     public boolean isEmpty(){
-        if (topo == -1) {
+        if (topo == -1){
             return true;
         } else {
             return false;
